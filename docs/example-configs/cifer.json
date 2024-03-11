@@ -3,7 +3,7 @@
     "value": {
       "key": "default",
       "chain-id": "cifer",
-      "rpc-addr": "https://rpcmainnet.cifer.ai/genesis",
+      "rpc-addr": "https://cif_node.cifer.ai/",
       "account-prefix": "cifer",
       "keyring-backend": "test",
       "gas-adjustment": 1.2,
